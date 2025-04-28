@@ -86,6 +86,9 @@ src/
 ## Getting Started
 
 1. Clone the repository
+   ```bash
+    git clone https://github.com/sudheer72/GoGetWell-ai.git
+   ```
 2. Install dependencies:
    ```bash
    npm install
@@ -102,13 +105,13 @@ src/
 ## Screenshots
 
 ### Homepage
-![Homepage](https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750)
+![Image](https://github.com/user-attachments/assets/050504ec-6400-4bb9-91cd-9232b1ce63aa)
 
 ### Features Section
-![Features](https://images.pexels.com/photos/7578754/pexels-photo-7578754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750)
+![Image](https://github.com/user-attachments/assets/fae0fd15-e563-40d2-9353-878a17896bdc)
 
 ### Login Page
-![Login](https://images.pexels.com/photos/7578813/pexels-photo-7578813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750)
+![Image](https://github.com/user-attachments/assets/8d3e36a6-d15a-40da-9d85-3f169db8efd5)
 
 ## Key Features Explained
 
